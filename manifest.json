@@ -1,0 +1,22 @@
+{
+    "name": "Aplikasi Sepak Bola",
+    "gcm_senderid" : "948582180336",
+    "short_name": "bolaApps",
+    "description": "Aplikasi Sepak Bola Liga Spanyol",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
